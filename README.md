@@ -19,3 +19,6 @@ This plugin is license under the "Protected Open-Source Software License" which 
 ## Credits
 This plugin was developed by FireBreath15 ([Bukkit](http://dev.bukkit.org/profiles/FireBreath15/), [GitHub](https://github.com/FireBreath15)) and myself. FireBreath15 is the original Bukkit author so please check out his work (http://dev.bukkit.org/bukkit-plugins/icontrolu/).
 
+##
+Now for Pocketmine Version 3.9.X have fun!
+
